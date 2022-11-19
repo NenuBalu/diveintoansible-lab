@@ -8,7 +8,7 @@
 The related code repository is available at - https://github.com/spurin/diveintoansible
 
 The full video course relating to this lab is available on -
-
+hello this is for test
 * [DiveInto](https://diveinto.com)
 * [Udemy](https://www.udemy.com/course/diveintoansible/?referralCode=28BBB7A1DCCD01BBA51F)
 * [O'Reilly](https://learning.oreilly.com/videos/dive-into-ansible/9781801076937)
